@@ -1,0 +1,5 @@
+These are the changes that will be made to this app
+
+1)Proper sizing of the components
+2)This will be a playground for the movie streaming API(before implementing in the real deal)
+3)Improve the UI a little bit(dark neon background with proper sized cover)

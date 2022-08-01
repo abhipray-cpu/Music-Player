@@ -1,0 +1,4 @@
+the button needs to be handled by the global states and the status/progress of music should also be handled
+using global states
+and the state of bar which will be linked to the state of play button
+the music file that is currently being played should also be linked to the global states
